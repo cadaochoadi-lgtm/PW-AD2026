@@ -1,6 +1,7 @@
-<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/008ef9fc-31ed-471f-9ca7-1415748fdeeb" />"Foto de perfil de Carlos Daniel" />
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/008ef9fc-31ed-471f-9ca7-1415748fdeeb" />
 
-# 👋 Hola, soy Carlos Daniel Ochoa Díaz Estuidante
+# 👋 Hola, soy Carlos Daniel Ochoa Díaz Estudiante
+
 
 ## 🎓 Información general
 - 📚 Carrera: Ingeniería en Sistemas Computacionales
