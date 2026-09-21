@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBjo7oLjTv2YXXxjU9VThah5gBhqB9-dTzCN-TrLudPQ&s=10" width="150" alt="Foto de perfil de Yair Nava" />
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/008ef9fc-31ed-471f-9ca7-1415748fdeeb" />"Foto de perfil de Carlos Daniel" />
 
 # 👋 Hola, soy Carlos Daniel Ochoa Díaz Estuidante
 
