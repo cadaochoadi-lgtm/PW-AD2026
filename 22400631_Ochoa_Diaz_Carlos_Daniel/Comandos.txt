@@ -1,0 +1,59 @@
+1.- Configurar Nombre que salen en los commits
+git config --global user.name "titulo"
+
+2.- Configurar Email
+git config --global user.email dasdo1@gmail.com
+
+3.- Marco de colores para los comando
+git config --global color.ui true
+
+4.- Iniciamos GIT en la carpeta donde esta el proyecto
+git init
+
+5.- Clonamos el repositorio de github o bitbucket
+git clone <url>
+
+6.- Añadimos todos los archivos para el commit
+git add .
+
+7.- Hacemos el primer commit
+git commit -m "Texto que identifique por que se hizo el commit"
+
+8.- subimos al repositorio
+git push origin master
+
+9.- Clonamos el repositorio de github o bitbucket
+git clone <url>
+
+10.- Clonamos el repositorio de github o bitbucket ?????
+git clone <url> git-demo
+
+11- Añadimos todos los archivos para el commit
+git add .
+
+12.- Añadimos el archivo para el commit
+git add <archivo>
+
+13.- Añadimos todos los archivos para el commit omitiendo los nuevos
+git add --all 
+
+14.- Añadimos todos los archivos con la extensión especificada
+git add *.txt
+
+15.- Añadimos todos los archivos dentro de un directorio y de una extensión especifica
+git add docs/*.txt
+
+16.- Añadimos todos los archivos dentro de un directorios
+git add docs/
+
+17.-Cargar en el HEAD los cambios realizados
+git commit -m "Texto que identifique por que se hizo el commit"
+
+18.- Agregar y Cargar en el HEAD los cambios realizados
+git commit -a -m "Texto que identifique por que se hizo el commit"
+
+19.- De haber conflictos los muestra
+git commit -a 
+
+20.- Agregar al ultimo commit, este no se muestra como un nuevo commit en los logs. Se puede especificar un nuevo mensaje
+git commit --amend -m "Texto que identifique por que se hizo el commit"
